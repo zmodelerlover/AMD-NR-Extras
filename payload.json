@@ -3731,13 +3731,13 @@
             ]
           },
           "opti-runtime": {
-            "version": "0.4.1",
+            "version": "0.4.2",
             "files": [
               {
-                "name": "dlssnr_amd_runtime-0.4.1.dll",
-                "size": 9916928,
-                "sha256": "823063eb4c76b1334fd1800c41798873ae61d4016af0406f1f0b9dce57b1d376",
-                "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/opti-runtime/dlssnr_amd_runtime-0.4.1.dll"
+                "name": "dlssnr_amd_runtime-0.4.2.dll",
+                "size": 12981760,
+                "sha256": "8aa2dcc5b6596aca97995dbfd4e0a9790d8c15108495e0ed154dd15dbb5b465a",
+                "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/opti-runtime/dlssnr_amd_runtime-0.4.2.dll"
               }
             ]
           }
