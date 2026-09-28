@@ -2,27 +2,27 @@
   "schema": 1,
   "components": {
     "addon": {
-      "version": "0.6.9",
+      "version": "0.7.1",
       "files": [
         {
           "name": "amd-nr.addon64",
-          "size": 623104,
-          "sha256": "f5007509f57c51d94f49a50cb16f46fadbf04c8128a2aaecc4c8d1ec3bec68b4",
-          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/addon/0.6.9/amd-nr.addon64",
+          "size": 849408,
+          "sha256": "909a7b7d26e967b2a3324bc0ba23d2c201b63be483ff3e465bd84099e305952d",
+          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/addon/0.7.1/amd-nr.addon64",
           "mirrors": [
-            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.6.9/amd-nr.addon64"
+            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.7.1/amd-nr.addon64"
           ]
         }
       ]
     },
     "runtime": {
-      "version": "0.4.1",
+      "version": "0.4.3",
       "files": [
         {
           "name": "dlssnr_amd_pass1.dll",
-          "size": 9916928,
-          "sha256": "c8808716c286a34fe25b8cf5b41a6b0f40ac1e1237b3ac39b903f0a90cd4f2e9",
-          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/runtime/0.4.1/dlssnr_amd_pass1.dll"
+          "size": 12749824,
+          "sha256": "f3d9f2e53b775e4870917572f1f87a28c73068a4dc97252d6fb52360ddf8597a",
+          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/runtime/0.4.3/dlssnr_amd_pass1.dll"
         },
         {
           "name": "dlssnr_on_amd_weights.bin",
@@ -59,35 +59,35 @@
       ]
     },
     "bridge": {
-      "version": "0.6.9",
+      "version": "0.7.1",
       "files": [
         {
           "name": "amd-nr.addon32",
           "path": "files/amd-nr.addon32",
-          "size": 287744,
-          "sha256": "633f8a30d2ce21a52a4eeef55cb6945bc6a0d4d25212589a900e80f469da14e1",
-          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/bridge/0.6.9/amd-nr.addon32",
+          "size": 284672,
+          "sha256": "54b78426e767cbea6f9cc4906de1c14a7d6779c7c82187e2147024f86436375d",
+          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/bridge/0.7.1/amd-nr.addon32",
           "mirrors": [
-            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.6.9/amd-nr.addon32"
+            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.7.1/amd-nr.addon32"
           ]
         },
         {
           "name": "amd-nr-host64.exe",
           "path": "files/amd-nr-host64.exe",
-          "size": 532480,
-          "sha256": "eb0577c42730c8c61b8f0fc2e294c8752f5e64675dc67e2553016f4c2b0d6d1a",
-          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/bridge/0.6.9/amd-nr-host64.exe",
+          "size": 570880,
+          "sha256": "f82533f272d2e4b7c6aa9884cea7d70c818ffb8f1252b0a4af32a3c594d6959f",
+          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/bridge/0.7.1/amd-nr-host64.exe",
           "mirrors": [
-            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.6.9/amd-nr-host64.exe"
+            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.7.1/amd-nr-host64.exe"
           ]
         },
         {
           "name": "payload.sha256",
           "size": 167,
-          "sha256": "8e6f379940c48304893c41196a31dbbb5d61da50ff9b1dc28f8a7181cd31a8ff",
-          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/bridge/0.6.9/payload.sha256",
+          "sha256": "169b908c05dc9f42e69728edd7f30efd88ff97abce9affcae7782ebe8c885153",
+          "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/bridge/0.7.1/payload.sha256",
           "mirrors": [
-            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.6.9/payload.sha256"
+            "https://github.com/zmodelerlover/dlss5-neural-amd/releases/download/v0.7.1/payload.sha256"
           ]
         }
       ]
@@ -3364,13 +3364,13 @@
             ]
           },
           "opti-runtime": {
-            "version": "0.4.2",
+            "version": "0.4.3",
             "files": [
               {
-                "name": "dlssnr_amd_runtime-0.4.2.dll",
-                "size": 12981760,
-                "sha256": "8aa2dcc5b6596aca97995dbfd4e0a9790d8c15108495e0ed154dd15dbb5b465a",
-                "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/opti-runtime/dlssnr_amd_runtime-0.4.2.dll"
+                "name": "dlssnr_amd_runtime-0.4.3.dll",
+                "size": 12749824,
+                "sha256": "d1e320862a8763ac39e7ce194536d4b6c55ba61bae9e8a92753cec32df67a457",
+                "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/opti-runtime/dlssnr_amd_runtime-0.4.3.dll"
               }
             ]
           },
@@ -7255,13 +7255,13 @@
             ]
           },
           "opti-runtime": {
-            "version": "0.4.2",
+            "version": "0.4.3",
             "files": [
               {
-                "name": "dlssnr_amd_runtime-0.4.2.dll",
-                "size": 12981760,
-                "sha256": "8aa2dcc5b6596aca97995dbfd4e0a9790d8c15108495e0ed154dd15dbb5b465a",
-                "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/opti-runtime/dlssnr_amd_runtime-0.4.2.dll"
+                "name": "dlssnr_amd_runtime-0.4.3.dll",
+                "size": 12749824,
+                "sha256": "d1e320862a8763ac39e7ce194536d4b6c55ba61bae9e8a92753cec32df67a457",
+                "url": "https://huggingface.co/datasets/zmodelerlover/amd-nr/resolve/main/opti-runtime/dlssnr_amd_runtime-0.4.3.dll"
               }
             ]
           }
@@ -24001,5 +24001,19 @@
         }
       }
     ]
-  }
+  },
+  "user_runtimes": [
+    {
+      "runtime": "DLSS-NR-on-AMD v0.5.0",
+      "name": "0.5.0",
+      "addon_since": "0.7.0",
+      "original_sha256": "cddfb09e019347957bf7b96c95c0e900e8d3062dfaed697a8a96b0a039aec31a",
+      "original_size": 38703616,
+      "patched_sha256": "c808cdb04b4cf99e806f2989bb5b258696a51c89c084c500c957b055a66479b6",
+      "changes": [
+        { "patch": "setup-thread", "offset": "0x62ed", "before": "ff1585060a00", "after": "31c090909090" },
+        { "patch": "doubled-submit", "offset": "0x9422", "before": "ff1560cb0a00", "after": "909090909090" }
+      ]
+    }
+  ]
 }
